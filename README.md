@@ -9,5 +9,5 @@ In this project I am creating an TO-DO-LIST app using React Native.
 ## UI Interface:
 
 ### Android Version:
-![alt text](C:\Users\Mohit Gandhi\Desktop\todoList\UIimages)
-![alt text](C:\Users\Mohit Gandhi\Desktop\todoList\UIimages)
+![alt text](https://github.com/MOHIT02082000/ToDoList-ReactNative/blob/master/Android%20Version.jpg?raw=true)
+![alt text](https://github.com/MOHIT02082000/ToDoList-ReactNative/blob/master/iOS%20Version.jpg?raw=true)
