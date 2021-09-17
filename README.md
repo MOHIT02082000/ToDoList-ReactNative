@@ -8,3 +8,6 @@ In this project I am creating an TO-DO-LIST app using React Native.
 
 ## UI Interface:
 
+### Android Version:
+![alt text](C:\Users\Mohit Gandhi\Desktop\todoList\UIimages)
+![alt text](C:\Users\Mohit Gandhi\Desktop\todoList\UIimages)
