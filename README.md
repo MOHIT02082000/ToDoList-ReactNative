@@ -6,5 +6,5 @@ React Native (also known as RN) is a popular JavaScript-based mobile app framewo
 
 In this project I am creating an TO-DO-LIST app using React Native.
 
-##UI Interface:
+## UI Interface:
 
