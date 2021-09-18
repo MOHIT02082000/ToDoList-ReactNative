@@ -7,9 +7,12 @@ React Native (also known as RN) is a popular JavaScript-based mobile app framewo
 In this project I am creating an TO-DO-LIST app using React Native.
 
 ## UI Interface:
-Android Version            |  iOS Version
-:-------------------------:|:-------------------------:
-<img src="https://github.com/MOHIT02082000/ToDoList-ReactNative/blob/master/Android%20Version.jpg" alt="drawing" width="200"/> <img src="https://github.com/MOHIT02082000/ToDoList-ReactNative/blob/master/iOS%20Version.jpg" alt="drawing" width="200"/>
+Android Version            |  
+:-------------------------:|
+<img src="https://github.com/MOHIT02082000/ToDoList-ReactNative/blob/master/Android%20Version.jpg" alt="drawing" width="200"/> 
+iOS Version            |
+:-------------------------:|
+<img src="https://github.com/MOHIT02082000/ToDoList-ReactNative/blob/master/iOS%20Version.jpg" alt="drawing" width="200"/>
 <!-- ### Android Version:
 ![alt text](https://github.com/MOHIT02082000/ToDoList-ReactNative/blob/master/Android%20Version.jpg?raw=true)
 ![alt text](https://github.com/MOHIT02082000/ToDoList-ReactNative/blob/master/iOS%20Version.jpg?raw=true) -->
