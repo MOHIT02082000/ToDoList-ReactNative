@@ -10,7 +10,7 @@ In this project I am creating an TO-DO-LIST app using React Native.
 
 ### Android Version: 
 <img src="https://github.com/MOHIT02082000/ToDoList-ReactNative/blob/master/Android%20Version.jpg" width="200"/>
-### iOS Version
+### iOS Version:
 <img src="https://github.com/MOHIT02082000/ToDoList-ReactNative/blob/master/iOS%20Version.jpg" width="200"/> 
 <!-- Android Version            |  
 :-------------------------:|
